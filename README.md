@@ -1,1 +1,1 @@
-My not empty readme
+Update is a good thing
